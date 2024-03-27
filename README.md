@@ -17,10 +17,11 @@
 <div id="bio" align="center">
   <h2>About Me</h2>
   <ul>
-    <li>👀 I'm Newbie in Data Analyst and I like to learn about ML, Data Science</li>
-    <li>👨‍💻 I'm passionate about Learning more about my Interest</li>
-    <li>🔁 I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.</li>    <li>❇️ I'm currently seeking new opportunities to apply my knowledge and expertise in the Data Science.</li>
-    <li>📄 I enjoy documenting my projects on Kaggle and GitHub to gain a deeper understanding of my work.</li>
-    <li>🤓 Focusing on learning Pyrhon and C Language right now.</li>
+    👀 I'm Newbie in Data Analyst and I like to learn about ML, Data Science.
+    👨‍💻 I'm passionate about Learning more about my Interest.
+    🔁 I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.    
+    ❇️ I'm currently seeking new opportunities to apply my knowledge and expertise in the Data Science.
+    📄 I enjoy documenting my projects on Kaggle and GitHub to gain a deeper understanding of my work.
+    🤓 Focusing on learning Pyrhon and C Language right now.
   </ul>
 </div>
