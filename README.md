@@ -17,7 +17,7 @@
 <div id="bio" align="center">
   <h2>About Me</h2>
   <ul>
-    👀 I'm Newbie in Data Analyst and I like to learn about ML, Data Science.
+    <p>👀 I'm Newbie in Data Analyst and I like to learn about ML, Data Science.</p>
     👨‍💻 I'm passionate about Learning more about my Interest.
     🔁 I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.    
     ❇️ I'm currently seeking new opportunities to apply my knowledge and expertise in the Data Science.
