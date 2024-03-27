@@ -11,6 +11,6 @@
   </a>
   </a>
   <a href="Sinavalizadehghasemkhani@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=telegram&logoColor=black" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail Badge"/>
   </a>
 </div>
