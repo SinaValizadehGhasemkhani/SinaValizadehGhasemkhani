@@ -9,4 +9,8 @@
   <a href="https://t.me/Sina_Ghasemkhanii">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=black" alt="telegram Badge"/>
   </a>
+  </a>
+  <a href="Sinavalizadehghasemkhani@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=telegram&logoColor=black" alt="Gmail Badge"/>
+  </a>
 </div>
