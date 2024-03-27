@@ -5,6 +5,6 @@
 
 <div id="badges">
   <a href="[link to your LinkedIn profile]">
-    <img src="[https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github](https alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-brightgreen?logo=github alt="GitHub badge"/>
   </a>
 </div>
