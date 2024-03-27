@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail Badge"/>
   </a>
 </div>
-<div id="bio">
+<div id="bio" align="center">
   <h2>About Me</h2>
   <ul>
     <li>👀 I'm Newbie in Data Analyst and I like to learn about ML, Data Science</li>
