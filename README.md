@@ -6,6 +6,7 @@
   <a href="www.linkedin.com/in/sina-valizadeh-ghasemkhani-129a59280">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
+  <a href="https://t.me/Sina_Ghasemkhanii">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
 </div>
