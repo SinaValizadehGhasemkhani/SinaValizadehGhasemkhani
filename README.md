@@ -17,10 +17,12 @@
 <div id="bio">
   <h2>About Me</h2>
   <ul>
+    <p>
     <li>I'm Newbie in Data Analyst and I like to learn about ML, Data Science</li>
     <li>I'm passionate about Learning more about my Interest</li>
     <li>I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.</li>    <li>I'm currently seeking new opportunities to apply my knowledge and expertise in the Data Science.</li>
     <li>I enjoy documenting my projects on Kaggle and GitHub to gain a deeper understanding of my work.</li>
     <li>Focusing on learning Pyrhon and C Language right now.</li>
+    </p>
   </ul>
 </div>
