@@ -1,18 +1,5 @@
-- 👋 Hi, I’m @SinaValizadehGhasemkhani
-- 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning Python and ML
-- 💞️ I’m looking to collaborate on Creating ML Model Using Medical Images, Object Detection
-- 📫 How to reach me?
-<div id="badges">
-  <a href="[link to your LinkedIn profile]">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </a>
-  <a href="[link to your Tableau profile]">
-    <img src="https://img.shields.io/badge/tableau-navy?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
-  </a>
+<div id="header" align="center">
+  <h1>Hello there, I'm Sina Valizadeh Ghasemkhani (You can just call me Sina)</h1>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Femojis%2F98285%2Fwinking-face&psig=AOvVaw3fziQJTJff5gxUb-ooanZq&ust=1711628425769000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCMq_O2lIUDFQAAAAAdAAAAABAF" width="200" />
+  <p>[briefly describe yourself and your interests]</p>
 </div>
-<!---
-SinaValizadehGhasemkhani/SinaValizadehGhasemkhani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
