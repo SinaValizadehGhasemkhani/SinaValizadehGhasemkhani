@@ -18,10 +18,10 @@
   <h2>About Me</h2>
   <ul>
     <p>👀 I'm Newbie in Data Analyst and I like to learn about ML, Data Science.</p>
-    👨‍💻 I'm passionate about Learning more about my Interest.
-    🔁 I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.    
-    ❇️ I'm currently seeking new opportunities to apply my knowledge and expertise in the Data Science.
-    📄 I enjoy documenting my projects on Kaggle and GitHub to gain a deeper understanding of my work.
-    🤓 Focusing on learning Pyrhon and C Language right now.
+    <p>👨‍💻 I'm passionate about Learning more about my Interest.</p>
+    <p>🔁 I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.</p>    
+    <p>❇️ I'm currently seeking new opportunities to apply my knowledge and expertise in the Data Science.</p>
+    <p>📄 I enjoy documenting my projects on Kaggle and GitHub to gain a deeper understanding of my work.</p>
+    <p>🤓 Focusing on learning Pyrhon and C Language right now.</p>
   </ul>
 </div>
