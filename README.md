@@ -25,3 +25,12 @@
     <p>🤓 Focusing on learning Pyrhon and C Language right now.</p>
   </ul>
 </div>
+<div id="skills" align="center">
+  <h2>Skills</h2>
+  <ul>
+    <p>1️⃣ Machine Learning</p>
+    <p>2️⃣ Data Analysis</p>
+    <p>3️⃣ Object Detection using OpenCV</p>
+    <p>4️⃣ Git & Project Management</p>
+  </ul>
+</div>
